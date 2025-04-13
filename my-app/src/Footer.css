@@ -1,7 +1,7 @@
 Footer {
-    border-top: 1px solid #f9f7fe;
+    border-top: 1px solid hsl(257, 78%, 98%);
+    padding-top: 90px;
     text-align: center;
-    padding-top: ;
     color: rgba(39, 33, 66, 0.4);
   }
   

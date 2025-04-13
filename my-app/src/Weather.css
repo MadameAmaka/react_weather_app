@@ -1,3 +1,17 @@
+body{
+    background-color:rgb(240, 240, 247);
+  }
+  .Weather {
+    background-color:rgb(240, 240, 247);
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: black;
+  }
+
 .form {
     list-style-type: none;
   }
